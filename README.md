@@ -49,7 +49,7 @@ For Firefox:
 
 The userscript is located in this repository:
 
-- [`scribd-pdf-compiler.user.py`](https://github.com/Xdit133/scribd-pdf-compilerTEST/blob/main/src/scribd-pdf-compiler.user.py)
+- [`scribd-pdf-compiler.user.py`](https://github.com/Xdit133/scribd-pdf-compiler/blob/main/src/scribd-pdf-compiler.user.js)
 
 Open the file and copy its contents for manual installation.
 
